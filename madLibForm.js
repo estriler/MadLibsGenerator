@@ -3,19 +3,7 @@ let userVerbs = [];
 let userAdjectives = [];
 let userAdverbs = [];
 
-<html>
-   <head>
-      <title>Bad-Libs</title>
-   </head>
-   <body>
-      <form>
-         <label>Enter a Noun <input type="text" name="noun" value="noun"/></label>
-         <label>Enter a Verb <input type="text" name="verb" value="verb"/></label>
-         <label>Enter an Adjective <input type="text" name="adjective" value="adjective"/></label>
-         <label>Enter an Adverb <input type="text" name="adverb" value="adverb"/></label>
-      </form>
-   </body>
-</html>
+
 
 //RNG Code for later ???
 //Math.floor(Math.random()*maxValue) + 1
